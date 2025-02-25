@@ -1,4 +1,4 @@
-Hi I'm Justin! I'm an aspiring Data Scientist venturing into the world of GitHub.
+Hi I'm Justin! I'm an aspiring Junior AI Engineer studying Data Science venturing into the world of GitHub.
 
 <!---
 jstredacted/jstredacted is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
