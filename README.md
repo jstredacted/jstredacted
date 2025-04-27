@@ -4,3 +4,5 @@ Hi I'm Justin! I'm an aspiring Junior AI Engineer studying Data Science venturin
 jstredacted/jstredacted is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+https://justindampalresume.vercel.app/
