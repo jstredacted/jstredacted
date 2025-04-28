@@ -5,4 +5,4 @@ jstredacted/jstredacted is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-https://justindampalresume.vercel.app/
+https://justindampal.vercel.app/
